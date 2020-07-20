@@ -29,7 +29,7 @@ const shubhs = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
     },
     architecture: ["Serverless Architecture", "PWAs", "SPAs"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs;only the third one works"
 };
 ```
 
