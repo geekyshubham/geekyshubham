@@ -28,7 +28,7 @@ const shubhs = {
         databases: ["mongo", "MySql", "sqlite","android room"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "PWAs", "SPAs"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
