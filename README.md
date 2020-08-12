@@ -5,6 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/digitl_shado?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/shubham-takankhar?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-takankhar/)](https://www.linkedin.com/in/shubham-takankhar/)
 ![GitHub followers](https://img.shields.io/github/followers/geekyshubham?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=geekyshubham&color=brightgreen)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
