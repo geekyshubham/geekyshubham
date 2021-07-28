@@ -13,20 +13,20 @@
 const shubhs = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Python", "Java", "JavaScript"],
-    askMeAbout: ["app dev", "tech", "web dev", "photography"],
+    askMeAbout: ["app dev", "InfoSec", "WebDev", "photography"],
     technologies: {
         mobileApp: ["Android App","Native Apps"],
         frontEnd: {
             js: ["React", "Gatsby"],
-            css: ["materialize", "sass", "bootstrap"]
+            css: ["materialize", "sass", "bootstrap","tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite","android room"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
+        devOps: ["AWS", "Docker🐳","Nginx","GCP"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
     architecture: ["Serverless Architecture", "PWAs", "SPAs"],
     funFact: "There are two ways to write error-free programs;only the third one works"
